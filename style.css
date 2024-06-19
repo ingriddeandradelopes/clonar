@@ -1,0 +1,27 @@
+.container{
+    background-image: url('https://images.pling.com/img/00/00/61/26/90/1551956/b46947476204206d2f280286e20d15f8528821ccbed13ca99deeb28d99a310694bce.jpg');
+    height: 100vh;
+  }
+  ol{
+    display: inline-flex;
+    list-style: none;
+  
+  }
+  li{
+    margin-right:60px; 
+  }
+  li,a{
+    color:yellowgreen;
+    text-decoration: none;
+    font-size: 18px; 
+    margin-top: 20px
+  }
+  .text
+  {
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 40%;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+  }
